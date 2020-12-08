@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm learning how to use GitHub and how to code so I can stop being a "fudido"! :)
